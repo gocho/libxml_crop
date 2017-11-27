@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="libxml_crop" displayName="libxml_crop" projectFiles="true">
+        <logicalFolder name="include" displayName="include" projectFiles="true">
+          <logicalFolder name="libxml" displayName="libxml" projectFiles="true">
+            <itemPath>libxml_crop/include/libxml/DOCBparser.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/HTMLparser.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/HTMLtree.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/Makefile</itemPath>
+            <itemPath>libxml_crop/include/libxml/Makefile.am</itemPath>
+            <itemPath>libxml_crop/include/libxml/Makefile.in</itemPath>
+            <itemPath>libxml_crop/include/libxml/SAX.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/SAX2.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/c14n.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/catalog.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/chvalid.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/debugXML.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/dict.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/encoding.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/entities.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/globals.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/hash.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/list.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/nanoftp.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/nanohttp.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/parser.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/parserInternals.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/pattern.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/relaxng.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/schemasInternals.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/schematron.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/threads.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/tree.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/uri.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/valid.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xinclude.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xlink.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlIO.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlautomata.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlerror.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlexports.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlmemory.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlmodule.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlreader.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlregexp.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlsave.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlschemas.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlschemastypes.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlstring.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlunicode.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlversion.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlversion.h.in</itemPath>
+            <itemPath>libxml_crop/include/libxml/xmlwriter.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xpath.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xpathInternals.h</itemPath>
+            <itemPath>libxml_crop/include/libxml/xpointer.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+        <logicalFolder name="src" displayName="src" projectFiles="true">
+          <itemPath>libxml_crop/src/SAX.c</itemPath>
+          <itemPath>libxml_crop/src/SAX2.c</itemPath>
+          <itemPath>libxml_crop/src/buf.c</itemPath>
+          <itemPath>libxml_crop/src/buf.h</itemPath>
+          <itemPath>libxml_crop/src/catalog.c</itemPath>
+          <itemPath>libxml_crop/src/chvalid.c</itemPath>
+          <itemPath>libxml_crop/src/config.h</itemPath>
+          <itemPath>libxml_crop/src/dict.c</itemPath>
+          <itemPath>libxml_crop/src/elfgcchack.h</itemPath>
+          <itemPath>libxml_crop/src/enc.h</itemPath>
+          <itemPath>libxml_crop/src/encoding.c</itemPath>
+          <itemPath>libxml_crop/src/entities.c</itemPath>
+          <itemPath>libxml_crop/src/error.c</itemPath>
+          <itemPath>libxml_crop/src/globals.c</itemPath>
+          <itemPath>libxml_crop/src/hash.c</itemPath>
+          <itemPath>libxml_crop/src/legacy.c</itemPath>
+          <itemPath>libxml_crop/src/libxml.h</itemPath>
+          <itemPath>libxml_crop/src/list.c</itemPath>
+          <itemPath>libxml_crop/src/parser.c</itemPath>
+          <itemPath>libxml_crop/src/parserInternals.c</itemPath>
+          <itemPath>libxml_crop/src/pattern.c</itemPath>
+          <itemPath>libxml_crop/src/relaxng.c</itemPath>
+          <itemPath>libxml_crop/src/save.h</itemPath>
+          <itemPath>libxml_crop/src/threads.c</itemPath>
+          <itemPath>libxml_crop/src/tree.c</itemPath>
+          <itemPath>libxml_crop/src/uri.c</itemPath>
+          <itemPath>libxml_crop/src/valid.c</itemPath>
+          <itemPath>libxml_crop/src/xinclude.c</itemPath>
+          <itemPath>libxml_crop/src/xlink.c</itemPath>
+          <itemPath>libxml_crop/src/xmlIO.c</itemPath>
+          <itemPath>libxml_crop/src/xmlmemory.c</itemPath>
+          <itemPath>libxml_crop/src/xmlreader.c</itemPath>
+          <itemPath>libxml_crop/src/xmlsave.c</itemPath>
+          <itemPath>libxml_crop/src/xmlschemas.c</itemPath>
+          <itemPath>libxml_crop/src/xmlschemastypes.c</itemPath>
+          <itemPath>libxml_crop/src/xmlstring.c</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+      <itemPath>main.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>libxml_crop</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <incDir>
+            <pElem>libxml_crop/include</pElem>
+            <pElem>libxml_crop/include/libxml</pElem>
+          </incDir>
+        </cTool>
+      </compileType>
+      <item path="libxml_crop/include/libxml/DOCBparser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/HTMLparser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/HTMLtree.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/Makefile"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/Makefile.am"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/Makefile.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/SAX.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/SAX2.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/c14n.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/catalog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/chvalid.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/debugXML.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/dict.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/encoding.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/entities.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/globals.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/hash.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/list.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/nanoftp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/nanohttp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/parser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/parserInternals.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/pattern.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/relaxng.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/schemasInternals.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/schematron.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/threads.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/uri.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/valid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xinclude.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xlink.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlIO.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlautomata.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlerror.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlexports.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlmemory.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlmodule.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlreader.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlregexp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlsave.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlschemas.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlschemastypes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlstring.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlunicode.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlversion.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlversion.h.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlwriter.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xpath.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xpathInternals.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xpointer.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/src/SAX.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/SAX2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/buf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/buf.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/catalog.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/chvalid.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/config.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/dict.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/elfgcchack.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/enc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/encoding.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/entities.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/error.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/globals.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/hash.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/legacy.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/libxml.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/list.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/parser.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/parserInternals.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/pattern.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/relaxng.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/save.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/threads.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/tree.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/uri.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/valid.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xinclude.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xlink.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlIO.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlmemory.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlreader.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlsave.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlschemas.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlschemastypes.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlstring.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Static_Library_x86" type="3">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <incDir>
+            <pElem>libxml_crop/include</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <archiverTool>
+        </archiverTool>
+      </compileType>
+      <item path="libxml_crop/include/libxml/DOCBparser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/HTMLparser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/HTMLtree.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/Makefile"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/Makefile.am"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/Makefile.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/SAX.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/SAX2.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/c14n.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/catalog.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/chvalid.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/debugXML.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/dict.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/encoding.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/entities.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/globals.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/hash.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/list.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/nanoftp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/nanohttp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/parser.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/parserInternals.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/pattern.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/relaxng.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/schemasInternals.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/schematron.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/threads.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/tree.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/uri.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/valid.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xinclude.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xlink.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlIO.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlautomata.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlerror.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlexports.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlmemory.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlmodule.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlreader.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlregexp.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlsave.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlschemas.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlschemastypes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlstring.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlunicode.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlversion.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlversion.h.in"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xmlwriter.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xpath.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xpathInternals.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/include/libxml/xpointer.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="libxml_crop/src/SAX.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/SAX2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/buf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/buf.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/catalog.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/chvalid.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/config.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/dict.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/elfgcchack.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/enc.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/encoding.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/entities.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/error.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/globals.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/hash.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/legacy.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/libxml.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/list.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/parser.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/parserInternals.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/pattern.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/relaxng.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/save.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/threads.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/tree.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/uri.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/valid.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xinclude.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xlink.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlIO.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlmemory.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlreader.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlsave.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlschemas.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlschemastypes.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="libxml_crop/src/xmlstring.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="true" tool="0" flavor2="9">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
